@@ -1,6 +1,6 @@
 Learning Rails
-==
 
+==
 Learning ruby-on-rails practice application from the http://learn-rails.com/ scond book (book written by Mr Daniel Kehoe)
 
 -- or --
