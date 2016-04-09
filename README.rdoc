@@ -1,3 +1,16 @@
+Learning Rails
+==
+
+Learning ruby-on-rails practice application from the http://learn-rails.com/ scond book (book written by Mr Daniel Kehoe)
+
+-- or --
+
+Learning Rails with a tutorial from the RailsApps project.
+
+
+
+I have left the original content of this README file down here for future scaning while learning if there would be any need for that in the future:
+
 == README
 
 This README would normally document whatever steps are necessary to get the
